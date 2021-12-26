@@ -1,0 +1,100 @@
+.banner {
+    background: url("https://wallpaperaccess.com/full/2309252.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.lingkaran {
+    display: inline-block;
+    border-radius : 50%;
+    width: 6em;
+    margin: 1em;
+    height: 6em;
+    color: #fff;
+    background-color: rgb(82, 29, 29);
+}
+.lingkaran{
+    position: relative;
+    top: 30px;
+}
+.crop-img{
+    object-fit: cover;
+}
+.persegi    {
+    display: inline-block;
+    border-radius: 30px;;
+    width: auto;
+    margin: auto;
+    height: auto;
+    color: #fff;
+    background-color: rgb(12, 17, 15);
+}
+.Layanan {
+    background: url("https://th.bing.com/th/id/R.09aa629d7c7b0f249a9d6cc5e1b8f67e?rik=ov3276AH4ri5iA&riu=http%3a%2f%2fwww.saukampus.com%2fwp-content%2fuploads%2f2016%2f10%2fSakarya%e2%80%99da-2.-universite-calismalari-Hiz-Kazandi.jpg&ehk=bm2CzHlIcnUmUhU1TpwU7TBiH7H6qZDpWVw%2b7SqpVJI%3d&risl=&pid=ImgRaw&r=0") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.sau {
+    background: url("https://i.ytimg.com/vi/sw0FXp_iTHQ/maxresdefault.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.subu {
+    background: url("https://akademidenhaberler.com/wp-content/uploads/2020/04/Sakarya-Uygulamal%C4%B1-Bilimler-%C3%9Cniversitesi-Akademik-Personel-Al%C4%B1m%C4%B1.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.Kontak {
+    background-color: rgb(17, 11, 11);
+}
+.breadcrumbs{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.breadcrumbs li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .05em;
+    line-height: 20px;
+    color: hsl(0, 0%, 30%);
+}
+.breadcrumbs li a{
+    display: block;
+    padding: 0 40px 0 0px;
+    color: hsl(0, 0%, 30%);
+    text-decoration: none;
+    height: 20px;
+    position: relative;
+    perspective: 700px;
+}
+.jdul {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+}
+.dalem{
+    color: black;
+}
+.Tentang{
+    background: url("https://th.bing.com/th/id/R.09aa629d7c7b0f249a9d6cc5e1b8f67e?rik=ov3276AH4ri5iA&riu=http%3a%2f%2fwww.saukampus.com%2fwp-content%2fuploads%2f2016%2f10%2fSakarya%e2%80%99da-2.-universite-calismalari-Hiz-Kazandi.jpg&ehk=bm2CzHlIcnUmUhU1TpwU7TBiH7H6qZDpWVw%2b7SqpVJI%3d&risl=&pid=ImgRaw&r=0") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
